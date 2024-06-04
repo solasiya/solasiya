@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Solomon Asia
+- 👋 Hi, I’m Solomon Asyia
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌱 I’m currently learning programming with PLP
 - 💞️ I’m looking to collaborate on new projects in future
