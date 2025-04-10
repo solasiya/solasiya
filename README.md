@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Solomon Asyia
-- 👀 I’m interested in Software Development and Cybersecurity
-- 🌱 I’m currently learning programming with PLP
+- 👀 I’m interested in Software Development and DevOps engineering
+- 🌱 I’m currently learning DevOps and on my journey to be certified by AWS
 - 💞️ I’m looking to collaborate on new projects in future
 - 📫 How to reach me solasiya@gmail.com
 - ⚡ Fun fact: I'm a Nature Conservationist
